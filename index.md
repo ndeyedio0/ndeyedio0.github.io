@@ -21,7 +21,7 @@ https://faculty.washington.edu/tmitra/
 
 This project focuses on the replication of existing TTI (text-to-image) modeling systems to discover bias within LLM (language learning models). Using Python, and text-based models, this project generates and analyzes a diverse set of image prompts to evaluate variations across ethnicity, gender, and professional attributes, providing insights into the social biases encoded in these AI systems.
 
-[My Final Report](files/finalreport.pdf)
+[My Final Report](files/dreu_final_report.pdf)
 
 ## My Blog
 
