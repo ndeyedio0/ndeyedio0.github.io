@@ -1,0 +1,6 @@
+---
+layout: post
+title: Week 7
+---
+This week I focused on evaluating the results of the images that were generated using the two prompts. I also created a diversity framework to score the images and categorize them. Each identity and profession 
+prompt was ran five times each, to give me a large enough data set to score. This week mainly focused on testing and synthesizing my results!
